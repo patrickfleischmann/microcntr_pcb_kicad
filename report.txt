@@ -1,0 +1,188 @@
+Info: Processing symbol 'C4:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C8:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C9:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'R39:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'C15:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C17:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C19:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C25:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'R41:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'C26:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'R42:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R43:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'C27:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'R60:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'C28:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C29:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C32:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C33:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C34:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C35:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C36:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C38:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C39:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C40:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C41:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C42:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C43:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C44:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C45:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C47:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C49:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C50:Capacitor_THT:CP_Radial_D8.0mm_P3.50mm'.
+Info: Processing symbol 'C52:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C57:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'R61:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R63:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'C69:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C71:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'D1:Package_TO_SOT_SMD:SOT-323_SC-70'.
+Info: Processing symbol 'D2:Package_TO_SOT_SMD:SOT-323_SC-70'.
+Info: Processing symbol 'D5:Package_TO_SOT_SMD:SOT-323_SC-70'.
+Info: Processing symbol 'D6:Diode_SMD:D_SOD-323F'.
+Info: Processing symbol 'IC1:SOP65P640X110-16N'.
+Info: Processing symbol 'R64:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R65:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R66:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R67:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R70:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R71:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R72:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R73:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R74:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R76:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R89:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R91:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R99:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R100:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'RV1:Potentiometer_SMD:Potentiometer_Bourns_3214J_Horizontal'.
+Info: Processing symbol 'RV2:Potentiometer_SMD:Potentiometer_Bourns_3214J_Horizontal'.
+Info: Processing symbol 'S1:SamacSys_Parts:SOT65P210X110-5N'.
+Info: Processing symbol 'U1:Package_TO_SOT_SMD:SOT-353_SC-70-5'.
+Info: Processing symbol 'U2:Package_TO_SOT_SMD:SOT-23'.
+Info: Processing symbol 'U3:Package_TO_SOT_SMD:SOT-363_SC-70-6'.
+Info: Processing symbol 'U4:Package_SO:MSOP-8_3x3mm_P0.65mm'.
+Info: Processing symbol 'U5:Package_TO_SOT_SMD:SOT-353_SC-70-5'.
+Info: Processing symbol 'U8:Package_TO_SOT_SMD:SOT-23-5'.
+Info: Processing symbol 'U13:Package_TO_SOT_SMD:SOT-23'.
+Info: Processing symbol 'U14:RF_GPS:ublox_MAX'.
+Info: Processing symbol 'Q2:Package_TO_SOT_SMD:TO-252-2'.
+Info: Processing symbol 'U15:Package_TO_SOT_SMD:SOT-363_SC-70-6'.
+Info: Processing symbol 'U17:Package_SO:TSSOP-8_3x3mm_P0.65mm'.
+Info: Processing symbol 'U18:Package_TO_SOT_SMD:SOT-353_SC-70-5'.
+Info: Processing symbol 'J1:Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical'.
+Info: Processing symbol 'J2:Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical'.
+Info: Processing symbol 'J3:Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical'.
+Info: Processing symbol 'J4:Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical'.
+Info: Processing symbol 'J5:SamacSys_Parts:142-0701-851'.
+Info: Processing symbol 'J6:Connector_USB:USB_Micro-B_Amphenol_10103594-0001LF_Horizontal'.
+Info: Processing symbol 'J9:Connector_Coaxial:U.FL_Molex_MCRF_73412-0110_Vertical'.
+Info: Processing symbol 'J10:Connector_Coaxial:U.FL_Molex_MCRF_73412-0110_Vertical'.
+Info: Processing symbol 'J13:Connector_Coaxial:U.FL_Molex_MCRF_73412-0110_Vertical'.
+Info: Processing symbol 'Y1:SamacSys_Parts:CCHD575X25100000'.
+Info: Processing symbol 'L1:Inductor_SMD:L_0402_1005Metric'.
+Info: Processing symbol 'L2:Inductor_SMD:L_0402_1005Metric'.
+Info: Processing symbol 'L5:Inductor_SMD:L_0402_1005Metric'.
+Info: Processing symbol 'L6:Inductor_SMD:L_0402_1005Metric'.
+Info: Processing symbol 'L7:Inductor_SMD:L_0402_1005Metric'.
+Info: Processing symbol 'L8:Inductor_SMD:L_0402_1005Metric'.
+Info: Processing symbol 'L10:Inductor_SMD:L_0402_1005Metric'.
+Info: Processing symbol 'L11:Inductor_SMD:L_0402_1005Metric'.
+Info: Processing symbol 'Q1:Package_TO_SOT_SMD:SOT-23'.
+Info: Processing symbol 'R62:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'Q3:Package_TO_SOT_SMD:SOT-143'.
+Info: Processing symbol 'Q4:SamacSys_Parts:SOT95P230X110-3N'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R6:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R9:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R11:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R12:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R13:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R21:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R30:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R35:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R37:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R38:Resistor_SMD:R_0402_1005Metric'.
+Reconnected C9 pin 1 from unconnected-(C9-Pad1) to +3.3V.
+Reconnected C25 pin 1 from unconnected-(C25-Pad1) to +3.3V.
+Add net Net-(C26-Pad1).
+Reconnected C26 pin 1 from Net-(R9-Pad1) to Net-(C26-Pad1).
+Reconnected C27 pin 1 from unconnected-(C27-Pad1) to +3.3V.
+Add net Net-(C57-Pad1).
+Reconnected C57 pin 1 from unconnected-(C57-Pad1) to Net-(C57-Pad1).
+Added IC1 (footprint 'SOP65P640X110-16N').
+Changed IC** reference designator to IC1.
+Changed IC1 value from SOP65P640X110-16N to 74LVC163PW,118.
+Updated IC1 symbol association from  to /32673e0e-d3de-475e-8b93-e35da4148303.
+Updated IC1 properties.
+Add net /~{PRESC_MR}.
+Connected IC1 pin 1 to /~{PRESC_MR}.
+Add net Net-(IC1-Pad2).
+Connected IC1 pin 2 to Net-(IC1-Pad2).
+Connected IC1 pin 3 to +3.3V.
+Connected IC1 pin 4 to +3.3V.
+Connected IC1 pin 5 to +3.3V.
+Connected IC1 pin 6 to +3.3V.
+Connected IC1 pin 7 to +3.3V.
+Connected IC1 pin 8 to GND.
+Add net /~{PRESC_PE}.
+Connected IC1 pin 9 to /~{PRESC_PE}.
+Connected IC1 pin 10 to +3.3V.
+Add net Net-(IC1-Pad11).
+Connected IC1 pin 11 to Net-(IC1-Pad11).
+Add net unconnected-(IC1-Pad12).
+Connected IC1 pin 12 to unconnected-(IC1-Pad12).
+Add net unconnected-(IC1-Pad13).
+Connected IC1 pin 13 to unconnected-(IC1-Pad13).
+Add net unconnected-(IC1-Pad14).
+Add net unconnected-(IC1-Pad15).
+Connected IC1 pin 15 to unconnected-(IC1-Pad15).
+Connected IC1 pin 16 to +3.3V.
+Reconnected J13 pin 1 from Net-(C57-Pad2) to Net-(C57-Pad1).
+Add net Net-(U1-Pad4).
+Connected U1 pin 4 to Net-(U1-Pad4).
+Connected U1 pin 5 to +3.3V.
+Reconnected R9 pin 1 from Net-(R9-Pad1) to Net-(C26-Pad1).
+Connected IC1 pin 14 to unconnected-(IC1-Pad14).
+Reconnected U3 pin 1 from unconnected-(U3-Pad1) to Net-(IC1-Pad2).
+Reconnected R1 pin 1 from Net-(R9-Pad1) to Net-(C26-Pad1).
+Updated U4 symbol association from /b58c1615-52e0-4057-928c-433371ca8338 to /e4e31c4c-913d-40fe-9e29-e8e5f6782ec0.
+Added U1 (footprint 'Package_TO_SOT_SMD:SOT-353_SC-70-5').
+Added U5 (footprint 'Package_TO_SOT_SMD:SOT-353_SC-70-5').
+Changed REF** reference designator to U5.
+Changed U5 value from SOT-353_SC-70-5 to SN74LVC1G80QDCKRQ1.
+Updated U5 symbol association from  to /0966efd3-a34f-4961-b890-5e38a52d78a6.
+Updated U5 properties.
+Connected U5 pin 1 to Net-(U1-Pad4).
+Connected U5 pin 2 to Net-(C57-Pad2).
+Connected U5 pin 3 to GND.
+Add net unconnected-(U5-Pad4).
+Connected U5 pin 4 to unconnected-(U5-Pad4).
+Connected U5 pin 5 to +3.3V.
+Changed REF** reference designator to U1.
+Changed U1 value from SOT-353_SC-70-5 to SN74LVC1G80QDCKRQ1.
+Updated U1 symbol association from  to /bea1c50d-fca8-4444-8e09-6dacc40b94ac.
+Updated U1 properties.
+Connected U1 pin 1 to Net-(IC1-Pad11).
+Connected U1 pin 2 to Net-(C57-Pad2).
+Connected U1 pin 3 to GND.
+Reconnected Y1 pin 3 from Net-(C21-Pad2) to Net-(C57-Pad2).
+Removed unused footprint R22.
+Removed unused footprint C21.
+Removed unused footprint J8.
+Removed unused footprint C56.
+Removed unused net Net-(C21-Pad1).
+Removed unused net Net-(C21-Pad2).
+Removed unused net Net-(C56-Pad2).
+Removed unused net Net-(R9-Pad1).
+Removed unused net unconnected-(C25-Pad1).
+Removed unused net unconnected-(C27-Pad1).
+Removed unused net unconnected-(C56-Pad1).
+Removed unused net unconnected-(C57-Pad1).
+Removed unused net unconnected-(C9-Pad1).
+Removed unused net unconnected-(U3-Pad1).
+
+
+Info: Total warnings: 0, errors: 0.
