@@ -5606,7 +5606,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d5a33aa1-4359-4aad-80ce-1cb7b678722e)
   )
-  (text "Aliexpress\nSMA-SMA\nSMA-F - U.FL\nCONSMA020.062-G equivalent\nScope probe?\nNadelfeile\nLötkolben\nUhrmacherlupe x10+"
+  (text "Aliexpress\nSMA-SMA\nSMA-F - U.FL\nCONSMA020.062-G equivalent\nScope probe?\nNadelfeile\nLötkolben\nUhrmacherlupe x10+\nGPS Ant"
     (at 15.24 124.46 0)
     (effects (font (size 2.54 2.54)) (justify left bottom))
     (uuid d90bdbcb-5a37-4297-8f75-a18ebfd9631d)

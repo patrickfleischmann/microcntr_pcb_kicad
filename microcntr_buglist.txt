@@ -1,0 +1,2 @@
+1. U16 LMT85DCKR: pin 1 unconnected. output voltage wrong (seems to be in LMT84 mode). used wrong symbol (LM20?). 
+bugfix: connect pin 1 to pin 4(vdd)
