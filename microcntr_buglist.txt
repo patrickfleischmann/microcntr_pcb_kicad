@@ -3,4 +3,8 @@ bugfix: connect pin 1 to pin 4(vdd)
 
 2. heater transistor connections wrong.. todo
 
-3. no onboard pull-up for NRST. connect R between NRST and 3V3 under header
+3. no onboard pull-up for NRST. connect R between NRST and 3V3 under header? STM32 has internal pull-up. Is this really a bug?
+
+4. LE# pin of TLV3603 comparators must have pulldown >50k or be left floating! is latched otherwise
+
+5. cal int 100M swing too low to trigger input comparator. increase input threshold to 1.5V or increase swing
