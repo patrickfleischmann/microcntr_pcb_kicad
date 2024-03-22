@@ -1,10 +1,38 @@
 1. U16 LMT85DCKR: pin 1 unconnected. output voltage wrong (seems to be in LMT84 mode). used wrong symbol (LM20?). 
-bugfix: connect pin 1 to pin 4(vdd)
+Bugfix: connected pin 1 to pin 4(vdd)
+Redesign:
 
 2. heater transistor connections wrong.. todo
+Bugfix:
+Redesign:
 
 3. no onboard pull-up for NRST. connect R between NRST and 3V3 under header? STM32 has internal pull-up. Is this really a bug?
+Bugfix:
+Redesign:
 
 4. LE# pin of TLV3603 comparators must have pulldown >50k or be left floating! is latched otherwise
+Bugfix: lifted pins
+Redesign:
 
 5. cal int 100M swing too low to trigger input comparator. increase input threshold to 1.5V or increase swing
+Bugfix: R5 -> 220R
+Redesing:
+
+6. Q4 not switching off fast enough due to saturation, storage time (not modelled in spice model)
+Use clamping circuit (schottky-Transistor) to avoid Saturation, but keep V_C_on as low as possible.
+Bugfix: Q4 -> BFR193, 2xBAT68 in series between Q4.B and Q4.C, C28 -> 10pF. Seems to work!
+Redesign: Use BFR193W + 2*BAS40 (a little more VF than BAT68 -> lower V_C -> lower idle offset), 
+	optimize R44, R39, C28
+
+7. V_F of D1 varies quite strongly with temperature. Creates temperature dependent Offset
+Bugfix: -
+Redesign: Use BAS40, point of very low temperature dependency is around 25 mA.
+
+8. L11 Ferrite for GNSS-Ant not mounted
+Bugfix: L11 -> mounted BLM15GG471/AG102?
+Redesign:
+
+9. connect cnt_in signal to synchronized signal instead to pulse. enables sampling idle offset on opposite edge
+Bugfix:
+Redesign:
+

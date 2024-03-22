@@ -5550,8 +5550,8 @@
     (effects (font (size 1.27 1.27) (thickness 0.254) bold) (justify left bottom))
     (uuid a2d961f6-9018-4f28-8471-4fc876626e92)
   )
-  (text "~{pulse} rising\nTIM5_CH1 Capture \n	-> DMA\n  	-> TIM5 TRGO\n		-> ADC CH10 injected conv\nTIM9 TI2 triggered one pulse on OC1\n	-> discharge pulse"
-    (at 187.96 135.255 0)
+  (text "~{pulse} rising\nTIM5_CH1 Capture \n	-> DMA\n  	-> TIM5 TRGO\n		-> ADC CH10 injected conv\nTIM9 TI2 triggered one pulse on OC1\n	-> discharge pulse\n(connecting to U5.4 enables samplig the \noffset. necessary to compensate sub-threshold\nleakage of diodes)"
+    (at 187.325 148.59 0)
     (effects (font (size 3 3)) (justify left bottom))
     (uuid a5d75dd4-e454-43a8-bbfe-07b832d1d689)
   )
