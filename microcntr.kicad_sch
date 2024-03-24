@@ -5351,11 +5351,6 @@
     (effects (font (size 2.54 2.54)) (justify left bottom))
     (uuid 410b5eff-5e17-43ad-aed5-10e06580c13e)
   )
-  (text "BUG: TLV3603 LE# should be floating or have pulldown"
-    (at 85.725 215.9 0)
-    (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
-    (uuid 4525fe1e-5a94-4668-bdc1-eb077d6bdf08)
-  )
   (text "TIM5_CH3" (at 430.53 113.03 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 453d9014-1ffc-42a5-bc76-a2227789c122)

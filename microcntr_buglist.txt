@@ -36,3 +36,12 @@ Redesign:
 Bugfix:
 Redesign:
 
+10. in LO toggles with 100MHz when no input applied. 100M measurable at R5. Ref in comp does not toggle.
+Disconnect timepulse from timepulse_hsi and keep gate powered for more isolation. -> enabling cal_en and keeping MCO output static 0 works. comp not toggling, ADF divN not toggling.
+Unpowered Gate does not provide high isolation!
+Bugfix: TODO lift U7.41, connect to U8.1 with wire. unmount R48
+Redesign:
+
+11. cal 100M produces non 50% duty cycle at comparator output. divN not toggling correctly. maybe increase R15 current dc levels: 1.23, 1.15V
+Bugfix: TODO Add series C to R5. Try reducing R45 to 100R (abs max ratings still ok)
+
