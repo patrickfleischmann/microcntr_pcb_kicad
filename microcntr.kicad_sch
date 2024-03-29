@@ -5511,8 +5511,8 @@
     (effects (font (size 1.27 1.27) (thickness 0.254) bold) (justify left bottom))
     (uuid 83aa8794-a2c6-48ea-b611-3da325a90b10)
   )
-  (text "TIM6: display delays\nTIM11: chibios\nTIM1: timepulse measure"
-    (at 278.765 109.22 0)
+  (text "TIM6: display delays\nTIM11: chibios\nTIM1: timepulse measure (start as slave of TIM5)"
+    (at 246.38 108.585 0)
     (effects (font (size 3 3)) (justify left bottom))
     (uuid 8d84dcd6-88d7-491e-9fd4-904218b43d96)
   )

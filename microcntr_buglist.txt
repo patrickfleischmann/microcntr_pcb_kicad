@@ -14,8 +14,10 @@ Redesign:
 Bugfix: lifted pins
 Redesign:
 
-5. cal int 100M swing too low to trigger input comparator. increase input threshold to 1.5V or increase swing
-Bugfix: R5 -> 220R
+5. cal int 100M swing too low to trigger input comparator. increase input threshold to 1.5V or increase swing.
+(with R5=220R: cal 100M produces non 50% duty cycle at comparator output. divN not toggling correctly. RF_in levels: 1.23, 1.15V)
+Bugfix: R5 -> C 8.2nF seems to work for cal int 100M (R5 -> 220R didn't work well. duty-cycle?)
+	TODO Try reducing R45 to 100R (abs max ratings still ok?)
 Redesing:
 
 6. Q4 not switching off fast enough due to saturation, storage time (not modelled in spice model)
@@ -37,11 +39,15 @@ Bugfix:
 Redesign:
 
 10. in LO toggles with 100MHz when no input applied. 100M measurable at R5. Ref in comp does not toggle.
-Disconnect timepulse from timepulse_hsi and keep gate powered for more isolation. -> enabling cal_en and keeping MCO output static 0 works. comp not toggling, ADF divN not toggling.
+Disconnect timepulse from timepulse_hsi and keep gate powered for more isolation.
 Unpowered Gate does not provide high isolation!
 Bugfix: TODO lift U7.41, connect to U8.1 with wire. unmount R48
 Redesign:
 
-11. cal 100M produces non 50% duty cycle at comparator output. divN not toggling correctly. maybe increase R15 current dc levels: 1.23, 1.15V
-Bugfix: TODO Add series C to R5. Try reducing R45 to 100R (abs max ratings still ok)
+11. cal 100M produces non 50% duty cycle at comparator output. divN not toggling correctly. maybe increase R15? Current dc levels: 1.23, 1.15V
+Bugfix: TODO Add series C to R5. 
+	TODO Try reducing R45 to 100R (abs max ratings still ok?)
+Redesign:TODO Add series C to 
+
+12. Obsolete Components: CM1213A-04S7
 
