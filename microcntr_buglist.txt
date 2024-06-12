@@ -28,7 +28,7 @@ Redesign: Use BFR193W + 2*BAS40 (a little more VF than BAT68 -> lower V_C -> low
 
 7. V_F of D1 varies quite strongly with temperature. Creates temperature dependent Offset
 Bugfix: -
-Redesign: Use BAS40, point of very low temperature dependency is around 25 mA.
+Redesign: Use Infineon BAS40, point of very low temperature dependency is around 25 mA.
 
 8. L11 Ferrite for GNSS-Ant not mounted
 Bugfix: L11 -> mounted BLM15GG471/AG102?
@@ -50,4 +50,32 @@ Bugfix: TODO Add series C to R5.
 Redesign:TODO Add series C to 
 
 12. Obsolete Components: CM1213A-04S7
+
+13. No RC Filter at adc input TAC_out, T_heater
+
+14. stm32 datasheet requires 50% duty cycle HSE clock input. violated by phase shifter. Is 50% really necessary?
+
+15. ADC triggering problematic.
+only regular channels can use DMA. Triggering ADC from capture event does not seem to work according to internet: https://community.st.com/t5/stm32-mcus-products/timer4-trigger-for-adc/td-p/507034
+Maybe connect pulse or synchronized input to EXTI_11
+
+16. Discharge maybe discharge across diodes and always measure remaining V_CE. Would eliminate leakage problems with diodes (very temperature dependent). VBE-Vschottky is also temp dependent (ca. 1mV/deg for 2*BAT68+BFR193), but less than subthreshold current times cap shunt res. This would eliminate time constant for charging to leakage level. leaving mainly opamp input leakage = 10pA -> shunt res could be increased to make TAC more linear (ADC trigger delay)
+
+17. Wide SMA connectors not readily available from Aliexpress. Redesign for narrow Connectors HI,LO just fit between mounting holes with narrow types.
+
+18. SMA for ANT?
+
+19. Mechanics: ledge feature on bottom part that fits into top not printed. check export, check 3d-view after upload.
+
+20. Mechanics: holes for screws too tight
+
+21. Mechanics: pockets for nuts: hex does not fit into square! make them hex.
+
+22. Display: audible whistling noise
+Bugfix: added 150uF tantalum to 12V DC-DC output -> reduced drastically
+Todo: test different display configuration
+
+23. Heater controller opamp unstable
+Bugfix: cap 8.2n parallel to R63 (tau << R63*C32). done, works.
+Redesign: TODO
 
